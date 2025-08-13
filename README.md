@@ -1,5 +1,8 @@
 # Splunk-AD-Lab
 
+### Note: Work in progress — I haven’t uploaded everything yet.
+
+
 ## Objective 
 
 This project is helping me learn real-world enterprise tasks by working with Active Directory and using Splunk to understand how to identify, analyse, and respond to cyberattacks to Harden Security.
