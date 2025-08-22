@@ -1,7 +1,14 @@
-# ⚙️ EntraID and Intune Home Lab 
+# ⚙️ Cloud SOC Lab
 
 ### Note: Work in progress
 
 ## 🕐 Objective 
+- Build a cloud-based SOC lab using Microsoft Sentinel, Defender for Endpoint, Microsoft Defender for Office (MDO), and Entra ID
 
-Build and manage an on-premises and cloud-integrated environment using Microsoft Entra ID, Intune, and Office 365. Configure user identities, device management, and cloud services to simulate real-world helpdesk scenarios, including account provisioning, access management, device enrollment, and troubleshooting.
+- Develop and execute KQL queries to detect phishing, failed logins, and endpoint threats
+
+- Simulate phishing attacks and analyze quarantined messages via Threat Explorer
+
+- Configure Safe Links and Anti-Phishing policies to enhance real-time email protection
+
+- Perform end-to-end incident triage and reporting
